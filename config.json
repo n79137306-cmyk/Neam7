@@ -1,0 +1,26 @@
+{
+  "version": "2026.10.17-1",
+  "versionNote": "",
+  "announce": {
+    "id": "",
+    "text": ""
+  },
+  "event": {
+    "enabled": true,
+    "days": 3,
+    "tasks": [
+      {
+        "key": "hwpumpkin",
+        "st": "w",
+        "need": 5,
+        "t": "Выиграй 5 матчей в Pistol Duel"
+      },
+      {
+        "key": "hwgoth",
+        "st": "k",
+        "need": 30,
+        "t": "Сделай 30 киллов в Pistol Duel"
+      }
+    ]
+  }
+}
